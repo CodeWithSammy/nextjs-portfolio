@@ -1,5 +1,5 @@
-import React from "react"
-import Image from "next/image"
+import React from "react";
+import Image from "next/image";
 
 const skills = [
   { skill: "HTML" },
@@ -15,7 +15,7 @@ const skills = [
   { skill: "Machine Learning" },
   { skill: "NumPy" },
   { skill: "Streamlit" },
-]
+];
 
 const AboutSection = () => {
   return (
@@ -35,14 +35,14 @@ const AboutSection = () => {
               Hi, my name is Samuel and I am a{" "}
               <span className="font-bold">{"highly ambitious"}</span>,
               <span className="font-bold">{" self-motivated"}</span>, and
-              <span className="font-bold">{" driven"}</span> software engineer
-              based in Los Angeles, CA.
+              <span className="font-bold">{" driven"}</span> Front-end Web Developer | Technical Writer | Blogger
+              based in Mumbai,India.
             </p>
             <br />
             <p>
-              I graduated from California State University, Northridge in 2019
-              with a BS in Computer Engineering and have been working in the
-              field ever since.
+              Passionate about crafting extraordinary user experiences through
+              web development, I'm a front-end web developer with a curious mind
+              and a knack for technology.
             </p>
             <br />
             <p>
@@ -53,14 +53,11 @@ const AboutSection = () => {
             </p>
             <br />
             <p>
-              I believe that you should{" "}
+              I am a person that{" "}
               <span className="font-bold text-teal-500">
-                never stop growing
+                never stops growing
               </span>{" "}
-              and that&#39;s what I strive to do, I have a passion for
-              technology and a desire to always push the limits of what is
-              possible. I am excited to see where my career takes me and am
-              always open to new opportunities. 🙂
+               ,I continuously seek new opportunities to expand my skills and create captivating web experiences. Let's connect and collaborate on projects that leverage technology to leave a lasting impression. Together, we'll shape the future of web development.🙂
             </p>
           </div>
           <div className="text-center md:w-1/2 md:text-left">
@@ -74,7 +71,7 @@ const AboutSection = () => {
                   >
                     {item.skill}
                   </p>
-                )
+                );
               })}
             </div>
             <Image
@@ -88,7 +85,7 @@ const AboutSection = () => {
         </div>
       </div>
     </section>
-  )
-}
+  );
+};
 
-export default AboutSection
+export default AboutSection;
