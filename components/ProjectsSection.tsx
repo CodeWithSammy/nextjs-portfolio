@@ -6,27 +6,27 @@ import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs"
 
 const projects = [
   {
-    name: "Thankful Thoughts",
+    name: "Doodle Jump(Desktop Version)",
     description:
-      "ThankfulThoughts is a web app that generates an appreciative sentence of something or someone you are thankful for.",
-    image: "/thankfulthoughts.png",
-    github: "https://github.com/hqasmei/thankful-thoughts",
-    link: "https://thankfulthoughts.io/",
+      "One of the most played games by the kids of 1990 and 2000s, tried to make a similar verision of it",
+    image: "/doodleJump.png",
+    github: "https://github.com/CodeWithSammy/doodleJump.io",
+    link: "https://codewithsammy.github.io/doodleJump.io/",
   },
   {
-    name: "PlatoIO",
-    description: "PlatoIO is a to do list app that built using the PERN stack.",
-    image: "/platoio.png",
-    github: "https://github.com/hqasmei/platoio",
-    link: "https://platoio.com/register",
+    name: "Music Player",
+    description: "Made a customized Music player using Html,Css,Javascript",
+    image: "/myMusicPlayer.png",
+    github: "https://github.com/CodeWithSammy/MyMusicPlayer",
+    link: "https://codewithsammy.github.io/MyMusicPlayer/",
   },
   {
-    name: "Kator Family Photos",
+    name: "Quiz App",
     description:
-      "Kator Family Photos is a photos and video digitization service in the LA area.",
-    image: "/familyphotos.png",
-    github: "https://github.com/hqasmei/katorfamilyphotos",
-    link: "https://katorfamilyphotos.com/",
+      "Buit a Quiz App with Html,Css, Javascript which also stores the highscore of each player.",
+    image: "/quizApp.png",
+    github: "https://github.com/CodeWithSammy/QuizApp",
+    link: "https://codewithsammy.github.io/QuizApp/",
   },
 ]
 
