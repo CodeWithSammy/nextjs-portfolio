@@ -41,7 +41,7 @@ const AboutSection = () => {
             <br />
             <p>
               Passionate about crafting extraordinary user experiences through
-              web development, I'm a front-end web developer with a curious mind
+              web development, I&#39;m a front-end web developer with a curious mind
               and a knack for technology.
             </p>
             <br />
@@ -57,7 +57,7 @@ const AboutSection = () => {
               <span className="font-bold text-teal-500">
                 never stops growing
               </span>{" "}
-               ,I continuously seek new opportunities to expand my skills and create captivating web experiences. Let's connect and collaborate on projects that leverage technology to leave a lasting impression. Together, we'll shape the future of web development.🙂
+               ,I continuously seek new opportunities to expand my skills and create captivating web experiences. Let&#39;s connect and collaborate on projects that leverage technology to leave a lasting impression. Together, we&#39;ll shape the future of web development.🙂
             </p>
           </div>
           <div className="text-center md:w-1/2 md:text-left">
