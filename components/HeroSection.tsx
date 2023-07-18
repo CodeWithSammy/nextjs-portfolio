@@ -24,8 +24,8 @@ const HeroSection = () => {
             <span className="font-semibold text-teal-600">
               Frontend Web Developer{" "}
             </span>
-            based in Los Angeles, CA. Working towards creating software that
-            makes life easier and more meaningful.
+             based in Mumbai, India
+             with a Flair for Design | Proficient in HTML, CSS, and JavaScript | Dedicated to Building User-Centered Websites.
           </p>
           <Link
             to="projects"
