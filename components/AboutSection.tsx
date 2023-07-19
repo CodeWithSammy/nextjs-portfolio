@@ -47,7 +47,7 @@ const AboutSection = () => {
             <br />
             <p>
               I have a wide range of hobbies and passions that keep me busy.
-              From reading, playing sports, traveling, to making YouTube videos,
+              From sci-fi nerd, playing guitar, traveling, to cooking,
               I am always seeking new experiences and love to keep myself
               engaged and learning new things.
             </p>
